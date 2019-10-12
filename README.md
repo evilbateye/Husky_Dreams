@@ -5,9 +5,8 @@ It's time to dream about huskies, survive!
 Art by [gemdog](https://twitter.com/gemdogart)
 
 Audio used:
-
-lupalenzuela - [ZOOM0004_LR](https://freesound.org/people/lupalenzuela/sounds/421811/)
-Ellary - [Jazzy Vibes #36](https://freesound.org/people/Ellary/sounds/466478/)
+lupalenzuela - [ZOOM0004_LR](https://freesound.org/people/lupalenzuela/sounds/421811/), 
+Ellary - [Jazzy Vibes #36](https://freesound.org/people/Ellary/sounds/466478/), 
 1pjladd2 - [Eating_an_Apple](https://freesound.org/people/1pjladd2/sounds/143117/)
 
 Used font [Hurry Up We're Dreaming](https://www.dafont.com/hurryupweredreaming.font)
