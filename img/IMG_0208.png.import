@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/arrow_keys.png-61ffaa71c2496727c4551749079aef62.stex"
+path="res://.import/IMG_0208.png-dae4a140cfc5921a1b268a42d1d2ece7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://gemdog/arrow_keys.png"
-dest_files=[ "res://.import/arrow_keys.png-61ffaa71c2496727c4551749079aef62.stex" ]
+source_file="res://img/IMG_0208.png"
+dest_files=[ "res://.import/IMG_0208.png-dae4a140cfc5921a1b268a42d1d2ece7.stex" ]
 
 [params]
 

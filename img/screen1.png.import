@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Button_Tex.png-250100336d552b4a1834a1bdd4195215.stex"
+path="res://.import/screen1.png-7f237fd9a1f703345dac81591dfaa244.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://gemdog/Button_Tex.png"
-dest_files=[ "res://.import/Button_Tex.png-250100336d552b4a1834a1bdd4195215.stex" ]
+source_file="res://img/screen1.png"
+dest_files=[ "res://.import/screen1.png-7f237fd9a1f703345dac81591dfaa244.stex" ]
 
 [params]
 

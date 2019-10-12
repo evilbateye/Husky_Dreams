@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/IMG_0209.png-0f6def8e144d29b1d92ef78437e1ccd9.stex"
+path="res://.import/IMG_0215.png-c02201ba279e624cccf8f4f3939a0d09.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://gemdog/IMG_0209.png"
-dest_files=[ "res://.import/IMG_0209.png-0f6def8e144d29b1d92ef78437e1ccd9.stex" ]
+source_file="res://img/IMG_0215.png"
+dest_files=[ "res://.import/IMG_0215.png-c02201ba279e624cccf8f4f3939a0d09.stex" ]
 
 [params]
 

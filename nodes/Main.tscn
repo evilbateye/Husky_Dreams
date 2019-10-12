@@ -1,13 +1,13 @@
 [gd_scene load_steps=10 format=2]
 
-[ext_resource path="res://Main.gd" type="Script" id=1]
-[ext_resource path="res://Mob.tscn" type="PackedScene" id=2]
-[ext_resource path="res://Player.tscn" type="PackedScene" id=3]
-[ext_resource path="res://HUD.tscn" type="PackedScene" id=4]
-[ext_resource path="res://gemdog/421811__lupalenzuela__zoom0004-lr.ogg" type="AudioStream" id=5]
-[ext_resource path="res://gemdog/466478__ellary__jazzy-vibes-36-loop-smooth-jazz.ogg" type="AudioStream" id=6]
-[ext_resource path="res://gemdog/143117__1pjladd2__eating-an-apple.ogg" type="AudioStream" id=7]
-[ext_resource path="res://gemdog/BG.jpg" type="Texture" id=8]
+[ext_resource path="res://nodes/Main.gd" type="Script" id=1]
+[ext_resource path="res://nodes/Mob.tscn" type="PackedScene" id=2]
+[ext_resource path="res://nodes/Player.tscn" type="PackedScene" id=3]
+[ext_resource path="res://nodes/HUD.tscn" type="PackedScene" id=4]
+[ext_resource path="res://audio/421811__lupalenzuela__zoom0004-lr.ogg" type="AudioStream" id=5]
+[ext_resource path="res://audio/466478__ellary__jazzy-vibes-36-loop-smooth-jazz.ogg" type="AudioStream" id=6]
+[ext_resource path="res://audio/143117__1pjladd2__eating-an-apple.ogg" type="AudioStream" id=7]
+[ext_resource path="res://img/BG.jpg" type="Texture" id=8]
 
 [sub_resource type="Curve2D" id=1]
 _data = {

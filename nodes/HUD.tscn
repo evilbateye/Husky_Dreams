@@ -1,10 +1,12 @@
 [gd_scene load_steps=12 format=2]
 
-[ext_resource path="res://HUD.gd" type="Script" id=1]
+[ext_resource path="res://nodes/HUD.gd" type="Script" id=1]
 [ext_resource path="res://fonts/hurryupweredreaming.ttf" type="DynamicFontData" id=2]
-[ext_resource path="res://gemdog/Button_Tex.png" type="Texture" id=3]
-[ext_resource path="res://gemdog/Button_Tex2.png" type="Texture" id=4]
-[ext_resource path="res://gemdog/arrow_keys.png" type="Texture" id=5]
+[ext_resource path="res://img/Button_Tex.png" type="Texture" id=3]
+[ext_resource path="res://img/Button_Tex2.png" type="Texture" id=4]
+[ext_resource path="res://img/arrow_keys.png" type="Texture" id=5]
+
+
 
 [sub_resource type="DynamicFont" id=1]
 size = 64
